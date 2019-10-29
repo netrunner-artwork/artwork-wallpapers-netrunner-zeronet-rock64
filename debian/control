@@ -6,7 +6,7 @@ Build-Depends: debhelper (>= 9)
 Standards-Version: 3.9.8
 
 Package: artwork-wallpapers-netrunner-zeronet-rock64
-Architecture: all
+Architecture: any
 Depends: ${misc:Depends}
 Description: wallpapers for Netrunner Zeronet Rock64
  This package provides wallpapers for Netrunner Zeronet Rock64
